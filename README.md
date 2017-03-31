@@ -4,4 +4,5 @@ Pico cartridge files contain all of the Lua source, sprite and sound effect data
 
 Dandy, or Dandy Dungeon was originally written for the Atari 8-bit computers, and this project is intended to faithfully port the original functionality and gameplay, to the limitations of the Pico-8 emulated hardware.
 
+https://en.wikipedia.org/wiki/Pico-8
 https://en.wikipedia.org/wiki/Dandy_(video_game)
